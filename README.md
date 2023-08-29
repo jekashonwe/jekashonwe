@@ -3,7 +3,7 @@
 
 - 🔭 I’m a **Fresher**
 
-- 🌱 Currently I'm a **Junior Web Developer**
+- 🌱 Currently I'm a **Beginner Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jekashonwe](https://github.com/jekashonwe)
 
